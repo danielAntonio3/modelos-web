@@ -1,0 +1,22 @@
+{
+    "todos": [
+        {
+            "titulo": "tarea 1",
+            "responsable": "daniel",
+            "descripcion": "terminar modelados",
+            "prioridad": "baja"
+        },
+        {
+            "titulo": "tarea 2",
+            "responsable": "toño",
+            "descripcion": "terminar base de datos",
+            "prioridad": "baja"
+        },
+        {
+            "titulo": "tarea 3",
+            "responsable": "noe",
+            "descripcion": "terminar documentacion final",
+            "prioridad": "baja"
+        }
+    ]
+}
